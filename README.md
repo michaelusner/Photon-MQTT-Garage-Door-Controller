@@ -1,7 +1,7 @@
 # Photon-MQTT-Garage-Door-Controller
 
 This project allows you to control your garage door via Home Assistant, MQTT and a Particle Photon microcontroller.
-
+![picture](images/overview.png)
 # Supplies
   * A Particle Photon microcontroller
   * A compatible relay (this code uses a single relay, but more could be incorporated)
